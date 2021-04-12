@@ -1,0 +1,4 @@
+C:\Users\jms_s\source\repos\PigLatin2\PigLatin2\obj\Debug\netcoreapp3.1\PigLatin2.csprojAssemblyReference.cache
+C:\Users\jms_s\source\repos\PigLatin2\PigLatin2\obj\Debug\netcoreapp3.1\PigLatin2.AssemblyInfoInputs.cache
+C:\Users\jms_s\source\repos\PigLatin2\PigLatin2\obj\Debug\netcoreapp3.1\PigLatin2.AssemblyInfo.cs
+C:\Users\jms_s\source\repos\PigLatin2\PigLatin2\obj\Debug\netcoreapp3.1\PigLatin2.csproj.CoreCompileInputs.cache
